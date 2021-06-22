@@ -142,3 +142,4 @@ docker images -a | grep "days" | awk '{print $3}' | xargs docker rmi -f
   yeni değişiklik
 123
 123
+lşkşlk
