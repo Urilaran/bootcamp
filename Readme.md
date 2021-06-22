@@ -139,7 +139,5 @@ docker images -a | grep "days" | awk '{print $3}' | xargs docker rmi -f
   git config --global user.name "serkan.tasci"
   Set your email address:
   git config --global user.email "aliserkantasci@gmail.com"
-  yeni değişiklik
-123
-123
-lşkşlk
+test123
+
