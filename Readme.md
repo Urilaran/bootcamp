@@ -142,3 +142,5 @@ docker images -a | grep "days" | awk '{print $3}' | xargs docker rmi -f
 test123
 test123123
 dassdasd
+asdasdasd
+
