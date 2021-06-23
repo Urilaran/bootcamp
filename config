@@ -4,18 +4,18 @@ clusters:
     certificate-authority: C:\Users\user\.minikube\ca.crt
     extensions:
     - extension:
-        last-update: Tue, 22 Jun 2021 13:45:48 +03
+        last-update: Wed, 23 Jun 2021 09:54:12 +03
         provider: minikube.sigs.k8s.io
         version: v1.21.0
       name: cluster_info
-    server: https://192.168.99.103:8443
+    server: https://192.168.99.105:8443
   name: minikube
 contexts:
 - context:
     cluster: minikube
     extensions:
     - extension:
-        last-update: Tue, 22 Jun 2021 13:45:48 +03
+        last-update: Wed, 23 Jun 2021 09:54:12 +03
         provider: minikube.sigs.k8s.io
         version: v1.21.0
       name: context_info
